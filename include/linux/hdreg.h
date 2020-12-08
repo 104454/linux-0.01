@@ -9,6 +9,7 @@
 /* currently supports only 1 hd, put type here */
 #define HARD_DISK_TYPE 17
 
+oiu
 /*
  * Ok, hard-disk-type is currently hardcoded. Not beatiful,
  * but easier. We don't use BIOS for anything else, why should
